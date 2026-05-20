@@ -3,8 +3,15 @@
 - [Recipe Page](Ricepe-Single-Page/)
 - [Live Demo](https://umitjannovruzov.me/recipe_project/index.html)
 
-<img src="Ricepe-Single-Page/preview.jpg" alt="Recipe Single Page" target="_blank">
+<img src="Ricepe-Single-Page/preview.jpg" alt="Recipe Single Page">
 
 # Social Links Profile Main
 
 - [Social Links](social-links-profile-main/)
+
+<details>
+  <summary>📸 Proje Tam Ekran Görüntüsü (Tıkla ve Aç)</summary>
+  <p align="center">
+    <img src="Ricepe-Single-Page/preview.jpg" alt="Recipe Page Screenshot">
+  </p>
+</details>
