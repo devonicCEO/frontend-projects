@@ -17,6 +17,8 @@
 
 ## R
 
+### Recipe Single Page
+
 - [Recipe Single Page](Ricepe-Single-Page/)
 - [Live Demo](https://umitjannovruzov.me/recipe_project/index.html)
 
@@ -26,11 +28,15 @@
 
 ## S
 
+### Social Links Single Page
+
 - [Social Links Profile Main](Social-Links-Profile-Main/)
 - [Live Demo](https://umitjannovruzov.me/social_links_project/index.html)
 
 <p align="center">
     <img src="Social-Links-Profile-Main/preview.jpg" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Social Links Profile Page">
 </p>
+
+### Statik Portfolio Web Site
 
 - [Statik Portfolio Site](Statik-Portfolio-Site/)
