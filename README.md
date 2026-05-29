@@ -30,11 +30,11 @@
 
 ### Social Links Single Page
 
-- [Social Links Profile Main](Social-Links-Profile-Main/)
+- [Social Links Profile Main](social-links-profile-main/)
 - [Live Demo](https://umitjannovruzov.me/social_links_project/index.html)
 
 <p align="center">
-    <img src="Social-Links-Profile-Main/preview.jpg" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Social Links Profile Page">
+    <img src="social-links-profile-main/preview.jpg" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Social Links Profile Page">
 </p>
 
 ### Statik Portfolio Web Site
