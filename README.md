@@ -9,7 +9,7 @@
 ### Faq Accardion
 
 - [Faq Accordion](faq_accordion/)
-- [Live Demo](https://umitjannovruzov.me/faq_accordion_project/index.html)
+- [Live Demo](https://fp-faq-accordion-1445c.web.app/)
 
 <p align="center">
     <img src="faq_accordion/preview.jpg" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Faq Accordion Single Page">
@@ -20,7 +20,7 @@
 ### Recipe Single Page
 
 - [Recipe Single Page](Ricepe-Single-Page/)
-- [Live Demo](https://umitjannovruzov.me/recipe_project/index.html)
+- [Live Demo](https://fp-recipe-single-1445c.web.app/)
 
 <p align="center">
     <img src="Ricepe-Single-Page/preview.jpg" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Recipe Single Page">
@@ -31,7 +31,7 @@
 ### Social Links Single Page
 
 - [Social Links Profile Main](social-links-profile-main/)
-- [Live Demo](https://umitjannovruzov.me/social_links_project/index.html)
+- [Live Demo](https://fp-social-links-1445c.web.app/)
 
 <p align="center">
     <img src="social-links-profile-main/preview.jpg" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Social Links Profile Page">
@@ -40,6 +40,7 @@
 ### Statik Portfolio Web Site
 
 - [Statik Portfolio Site](Statik-Portfolio-Site/)
+- [Live Demo](https://fp-statik-portfolio-1445c.web.app/)
 
 <p align="center">
     <img src="Statik-Portfolio-Site/preview.png" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Statik Portfolio Web Site">
