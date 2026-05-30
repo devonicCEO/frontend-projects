@@ -40,3 +40,7 @@
 ### Statik Portfolio Web Site
 
 - [Statik Portfolio Site](Statik-Portfolio-Site/)
+
+<p align="center">
+    <img src="Statik-Portfolio-Site/preview.png" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Statik Portfolio Web Site">
+</p>
