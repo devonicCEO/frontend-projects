@@ -1,0 +1,24 @@
+{
+  "hosting": [
+    {
+      "target": "faq",
+      "public": "faq_accordion",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "target": "recipe",
+      "public": "Ricepe-Single-Page",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "target": "social",
+      "public": "Social-Links-Profile-Main",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "target": "portfolio",
+      "public": "Statik-Portfolio-Site",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
+  ]
+}

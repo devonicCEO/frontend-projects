@@ -1,0 +1,23 @@
+{
+  "projects": {
+    "default": "frontend-projects-1445c"
+  },
+  "targets": {
+    "frontend-projects-1445c": {
+      "hosting": {
+        "faq": [
+          "fp-faq-accordion-1445c"
+        ],
+        "recipe": [
+          "fp-recipe-single-1445c"
+        ],
+        "social": [
+          "fp-social-links-1445c"
+        ],
+        "portfolio": [
+          "fp-statik-portfolio-1445c"
+        ]
+      }
+    }
+  }
+}
