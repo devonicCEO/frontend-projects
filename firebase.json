@@ -19,6 +19,11 @@
       "target": "portfolio",
       "public": "Statik-Portfolio-Site",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    },
+    {
+      "target": "result-summary",
+      "public": "results-summary-component-main",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     }
   ]
 }

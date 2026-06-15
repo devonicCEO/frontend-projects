@@ -16,7 +16,7 @@
 </p>
 
 ## R
-    
+
 ### Recipe Single Page
 
 - [Recipe Single Page](Ricepe-Single-Page/)
@@ -24,6 +24,15 @@
 
 <p align="center">
     <img src="Ricepe-Single-Page/preview.jpg" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Recipe Single Page">
+</p>
+
+### Result Summary Component
+
+- [Recipe Single Page](results-summary-component-main/)
+- [Live Demo](https://fp-results-summary.web.app/)
+
+<p align="center">
+    <img src="results-summary-component-main/preview.jpg" style="max-width: 100%; max-height: 400px; object-fit: contain;" alt="Result Summary Component">
 </p>
 
 ## S

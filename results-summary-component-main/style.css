@@ -1,0 +1,176 @@
+@import url("https://fonts.google.com/specimen/Hanken+Grotesk");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Hanken Grotesk", self-serif;
+}
+
+body {
+  background-color: hsl(221, 100%, 96%);
+}
+
+.header {
+  background: linear-gradient(
+    to bottom,
+    hsl(252, 100%, 67%),
+    hsl(241, 81%, 54%)
+  );
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  color: white;
+}
+
+.header h4 {
+  color: hsl(241, 100%, 89%);
+}
+
+.score {
+  background: linear-gradient(
+    to bottom,
+    hsla(256, 72%, 46%, 1),
+    hsla(241, 72%, 46%, 0)
+  );
+  width: 140px;
+  height: 140px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.score span {
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.score p {
+  color: hsl(241, 100%, 89%);
+}
+
+.great {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.great p {
+  color: hsl(241, 100%, 89%);
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  margin: 5% auto;
+  width: 80%;
+  height: 100%;
+  gap: 5px;
+  font-weight: bold;
+}
+
+.main h4 {
+  color: hsl(224, 30%, 27%);
+  font-size: 1.2rem;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.card-header {
+  display: flex;
+  flex-direction: row;
+  gap: 20%;
+}
+
+.card {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.card p {
+  color: hsl(224, 30%, 27%);
+}
+
+.card1 {
+  background-color: hsl(0, 90%, 96%);
+  color: hsl(0, 100%, 67%);
+}
+
+.card2 {
+  background-color: hsl(39, 59%, 92%);
+  color: hsl(39, 100%, 56%);
+}
+
+.card3 {
+  background-color: hsl(166, 71%, 91%);
+  color: hsl(166, 100%, 37%);
+}
+
+.card4 {
+  background-color: hsl(235, 94%, 93%);
+  color: hsl(234, 85%, 45%);
+}
+
+.btn {
+  width: 80%;
+  padding: 20px 0;
+  background-color: hsl(224, 30%, 27%);
+  text-align: center;
+  border-radius: 40px;
+  margin: 0 auto;
+}
+
+.btn a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .header {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .header h4 {
+    margin-top: 20px;
+  }
+
+  .great {
+    text-align: start;
+    width: 65%;
+    margin: 0 auto;
+    margin-bottom: 5%;
+    gap: 10px;
+  }
+
+  .great h3 {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+}
+
+.attribution {
+  font-size: 0.6875rem;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
